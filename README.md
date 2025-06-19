@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">👋 Hey, I'm Kabelo Mosia</h1>
 
-<!--
-**KabeloMosia/KabeloMosia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 <strong>Aspiring Full-Stack Developer</strong> | 💻 <strong>MERN & AWS Enthusiast</strong> | 🎓 Always Learning, Always Building
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate developer committed to solving real-world problems through technology. With a growing toolkit in **JavaScript**, **React**, **Node.js**, **MongoDB**, and **AWS Cloud**, I'm currently focused on building scalable full-stack applications, refining my backend logic, and mastering deployment workflows.
+
+### 🔧 Tech Stack  
+`JavaScript` | `TypeScript` | `React` | `Node.js` | `Express` | `MongoDB` | `PostgreSQL` | `AWS (EC2, S3, DynamoDB)` | `Docker` | `Tailwind CSS`
+
+### 🧠 Currently Learning  
+- Advanced cloud architectures with AWS  
+- System design & scalable backend services  
+- CI/CD and GitHub Actions
+
+### 📌 Recent Projects  
+- 🌍 [AtlasBooking](https://github.com/KabeloMosia/AtlasBooking) – Airbnb-style MERN app  
+- 🎵 *Guess the Song* – MERN + Spotify API trivia game *(in progress)*  
+- 📅 *Event Booking App* – React Native + Node.js + MongoDB full-stack project
+
+### 📫 Let’s Connect  
+I’m open to collaboration, mentorship, and building cool stuff together.
+
+- 📍 [LinkedIn](https://www.linkedin.com/in/kabelomosia/)
+- 💼 Explore my work here on GitHub!
+
+---
+
+> 🛠️ _"Turning code into experiences. Learning every day."_  
