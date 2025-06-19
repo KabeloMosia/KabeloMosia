@@ -17,7 +17,7 @@ I'm a passionate developer committed to solving real-world problems through tech
 - CI/CD and GitHub Actions
 
 ### 📌 Recent Projects  
-- 🌍 [AtlasBooking](https://github.com/KabeloMosia/AtlasBooking) – Booking.com-style MERN app  
+- 🌍 [AtlasBooking]([https://github.com/KabeloMosia/AtlasBooking](https://atlasbookingapp.onrender.com/)) – Booking.com-style MERN app  
 - 🎵 *Guess the Song* – MERN + Spotify API trivia game *(in progress)*  
 
 
