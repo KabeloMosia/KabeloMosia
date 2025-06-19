@@ -19,12 +19,12 @@ I'm a passionate developer committed to solving real-world problems through tech
 ### 📌 Recent Projects  
 - 🌍 [AtlasBooking](https://github.com/KabeloMosia/AtlasBooking) – Airbnb-style MERN app  
 - 🎵 *Guess the Song* – MERN + Spotify API trivia game *(in progress)*  
-- 📅 *Event Booking App* – React Native + Node.js + MongoDB full-stack project
+
 
 ### 📫 Let’s Connect  
 I’m open to collaboration, mentorship, and building cool stuff together.
 
-- 📍 [LinkedIn](https://www.linkedin.com/in/kabelomosia/)
+- 📍 [LinkedIn](www.linkedin.com/in/kabelo-serame-m-1a208a194)
 - 💼 Explore my work here on GitHub!
 
 ---
